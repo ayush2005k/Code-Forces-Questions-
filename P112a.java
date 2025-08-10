@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class P112a {
-  
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -28,4 +27,5 @@ public class P112a {
         scanner.close();
     }
 }
+
 
