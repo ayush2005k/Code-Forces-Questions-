@@ -1,6 +1,5 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
 public class StoneRemoval {
     /**
      * This program calculates the minimum number of stones to remove so that no two neighboring stones have the same color.
@@ -59,3 +58,4 @@ public class StoneRemoval {
         scanner.close();
     }
 }
+
